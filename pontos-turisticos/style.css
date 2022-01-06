@@ -1,0 +1,11 @@
+@charset "UTF-8";
+body {
+    background-color: rgb(48, 48, 48);
+    font-family: 'Times New Roman', Times, serif;
+}
+h1, h2, p, a {
+    color: white;
+}
+div, p {
+    text-align: center;
+}
